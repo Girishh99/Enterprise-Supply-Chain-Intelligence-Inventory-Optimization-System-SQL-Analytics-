@@ -35,7 +35,7 @@ This project solves these problems using structured SQL analytics.
 
 ## 🛠️ Tech Stack
 
-* SQL (PostgreSQL)
+* SQL (Microsoft SQL Server Management Studio — SSMS)
 * Window Functions
 * CTEs
 * Joins & Subqueries
