@@ -40,6 +40,7 @@ This project solves these problems using structured SQL analytics.
 * CTEs
 * Joins & Subqueries
 * Data Modeling Concepts
+* Power BI
 
 ---
 
