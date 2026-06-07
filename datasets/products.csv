@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,60000
+2,Mobile,Electronics,20000
+3,Headphones,Electronics,2000
+4,Office Chair,Furniture,5000
+5,Desk,Furniture,8000
+6,Notebook,Stationary,50
+7,Pen,Stationary,10
+8,Printer,Electronics,15000
+9,Keyboard,Electronics,1200
+10,Mouse,Electronics,800
+11,Monitor,Electronics,12000
+12,Webcam,Electronics,2500
+13,USB Drive,Electronics,700
+14,Bookshelf,Furniture,7000
+15,Filing Cabinet,Furniture,9000
+16,Table Lamp,Furniture,1500
+17,Whiteboard,Furniture,3000
+18,Marker Pack,Stationery,120
+19,Sticky Notes,Stationery,80
+20,Calculator,Stationery,500
+21,A4 Paper Ream,Stationery,350
+22,Router,Electronics,3500
+23,Projector,Electronics,25000
+24,Coffee Table,Furniture,6000
+25,Desk Organizer,Stationery,250
